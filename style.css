@@ -19,3 +19,7 @@ body {
 .bg-theme {
     color: white;
 }
+
+.bg-theme h1 {
+    text-transform: uppercase;
+}
